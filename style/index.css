@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+}
+img{
+    width: 300px;
+}
+.test{
+    width: 50%;
+    margin: 0 auto;
+}
+a{
+    color: red;
+}
